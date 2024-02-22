@@ -1,1 +1,1 @@
-This is an python based application that uses Xception neural network arcitecture for car model classification. Database of 10 models is split into Train/Test/Validate? training is done with gradual defrost of base model and fine tuned with TTA.
+This is an python based application that uses Xception neural network arcitecture for car model classification. Database containing images of 10 models is split into Train/Test/Validate training is done with gradual defrost of base model and fine tuned with TTA.
